@@ -1,0 +1,1 @@
+this webapp compares two uploaded text files by line, by sentences or by a user defined substring length.
